@@ -1,0 +1,30 @@
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+    background-color: #000000;
+    color: white;
+}
+nav{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+div{
+    width: 200px;
+    text-align: center;
+    background-color: #232028;
+}
+.box{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.logo{
+     background-color: #000000;
+    color: white;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+}
